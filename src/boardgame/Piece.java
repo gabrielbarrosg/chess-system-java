@@ -14,9 +14,6 @@ public class Piece {
 		return board;
 	}
 
-	public boolean possibleMoves() {
-		
-	}
 	
 	public boolean posibleMove(Position position) {
 		return true;
